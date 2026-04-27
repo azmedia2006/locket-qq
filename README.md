@@ -1,9 +1,7 @@
-# Locket QQ
+# Locket QUÂN QUÂN
 
 <div align="center">
-  <p>
-    <img src="./assets/locket-qq-logo.png" alt="Locket QQ Logo" width="180" />
-  </p>
+
 
 Ứng dụng web chia sẻ ảnh/video cho cộng đồng Locket Widget, kèm bộ self-hosted đầy đủ API + Storage + Web.
 
