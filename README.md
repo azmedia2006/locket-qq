@@ -32,19 +32,19 @@ Repo hien tai gom 2 nhom chinh:
 
 ### Public
 
-- Website chinh: https://locket-qq.com
+- Website chinh: https://locket.azmedia247.com/
 - Repository: https://github.com/azmedia2006/locket-qq
 - Telegram cong dong: https://t.me/ddevdio
 
 ### Endpoint mac dinh (tham khao tu `apps/main/.env.example`)
 
-- Base API: `https://api.locket-qq.com`
-- Auth API: `https://auth.locket-qq.com`
-- Data API: `https://data.locket-qq.com`
-- Payment API: `https://payment.locket-qq.com`
-- Storage API: `https://storage.locket-qq.com`
-- Media API: `https://media.locket-qq.com`
-- CDN: `https://cdn.locket-qq.com`
+- Base API: `https://api.locket.azmedia247.com`
+- Auth API: `https://auth.locket.azmedia247.com`
+- Data API: `https://data.locket.azmedia247.com`
+- Payment API: `https://payment.locket.azmedia247.com`
+- Storage API: `https://storage.locket.azmedia247.com`
+- Media API: `https://media.locket.azmedia247.com`
+- CDN: `https://cdn.locket.azmedia247.com`
 
 ### Self-hosted local ports (docker-compose)
 
