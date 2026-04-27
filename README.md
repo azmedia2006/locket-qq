@@ -6,7 +6,7 @@
 Ứng dụng web chia sẻ ảnh/video cho cộng đồng Locket Widget, kèm bộ self-hosted đầy đủ API + Storage + Web.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Demo](https://img.shields.io/badge/demo-locket--qq.com-2ea44f)](https://locket-qq.com)
+[![Demo](https://img.shields.io/badge/demo-locket--qq.com-2ea44f)](https://locket.azmedia247.com/)
 [![Repo](https://img.shields.io/badge/repo-azmedia2006%2Flocket--qq-0969da)](https://github.com/azmedia2006/locket-qq)
 </div>
 
