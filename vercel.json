@@ -1,0 +1,9 @@
+{
+  "buildCommand": "cd apps/self-hosted/web && npm install && npm run build",
+  "outputDirectory": "apps/self-hosted/web/dist",
+  "installCommand": "echo 'skip root install'",
+  "framework": null,
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/" }
+  ]
+}

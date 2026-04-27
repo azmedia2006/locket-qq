@@ -1,0 +1,29 @@
+# Environment files (chứa keys/secrets)
+.env
+.env.local
+.env.development
+.env.production
+.env.staging
+
+# Giữ lại .env.example để người khác biết cần config gì
+!.env.example
+
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+.next/
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
