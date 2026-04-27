@@ -7,7 +7,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Demo](https://img.shields.io/badge/demo-locket--qq.com-2ea44f)](https://locket-qq.com)
-[![Repo](https://img.shields.io/badge/repo-lvquyen15506%2Flocket--qq-0969da)](https://github.com/lvquyen15506/locket-qq)
+[![Repo](https://img.shields.io/badge/repo-azmedia2006%2Flocket--qq-0969da)](https://github.com/azmedia2006/locket-qq)
 </div>
 
 ## Muc luc
@@ -33,7 +33,7 @@ Repo hien tai gom 2 nhom chinh:
 ### Public
 
 - Website chinh: https://locket-qq.com
-- Repository: https://github.com/lvquyen15506/locket-qq
+- Repository: https://github.com/azmedia2006/locket-qq
 - Telegram cong dong: https://t.me/ddevdio
 
 ### Endpoint mac dinh (tham khao tu `apps/main/.env.example`)
